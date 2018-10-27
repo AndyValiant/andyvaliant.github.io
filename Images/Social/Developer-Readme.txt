@@ -1,0 +1,1 @@
+You can use "Social Font" beside svg images.

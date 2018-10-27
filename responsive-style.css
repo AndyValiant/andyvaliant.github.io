@@ -1,0 +1,200 @@
+@media all and (max-width: 1024px) {
+    .header-head-text-wrap {
+        width: 100%;
+    }
+
+    .header-menu-wrap {
+        width: 90%;
+    }
+
+    .about-us {
+        margin: 0 auto;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    .about-us-text-wrap {
+        margin-bottom: 30px;
+    }
+
+    .portfolio-title-wrap {
+        width: 100%;
+    }
+
+    .portfolio-title {
+        padding-top: 10px;
+    }
+
+    .portfolio-work {
+        width: 40%;
+    }
+
+    .services-wrap {
+        width: 90%;
+    }
+
+    .service {
+        width: 40%;
+    }
+
+    .service-image-container {
+        margin: 0 auto;
+    }
+
+    .service-title {
+        text-align: center;
+    }
+
+    .map-wrap {
+        height: 300px;
+    }
+
+    .contactUs-main-wrap {
+        width: 90%;
+    }
+
+    .contactUs-write-wrap {
+        display: block;
+    }
+
+    .contactUs-inputs-wrap {
+        width: 60%;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+
+    .contactUs-name {
+        text-align:center;
+        margin-bottom: 10px;
+    }
+
+    .contactUs-email {
+        text-align:center;
+    }
+
+    .contactUs-write-wrap textarea {
+        text-align:center;
+        width: 60%;
+        display:block;
+        margin: 0 auto;
+    }
+
+    .footer-nav-wrap {
+        width: 90%;
+    }
+
+    .findUs-wrap {
+        width: 90%;
+        display: block;
+    }
+
+    .addresses-wrap {
+        margin-bottom: 20px;
+    }
+
+}
+
+@media all and (max-width: 480px) {
+    .header-head-text-wrap {
+        width: 100%;
+    }
+
+    .header-menu-wrap {
+        width: 90%;
+    }
+
+    .about-us {
+        margin: 0 auto;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    .about-us-text-wrap {
+        margin-bottom: 10px;
+    }
+
+    .about-us-persons-wrap {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .portfolio-title-wrap {
+        width: 100%;
+    }
+
+    .portfolio-title {
+        padding-top: 10px;
+    }
+
+    .portfolio-work {
+        width: 50%;
+    }
+
+    .services-wrap {
+        width: 90%;
+    }
+
+    .services-main-wrap {
+        flex-direction: column;
+        align-items: center;
+        justify-content: normal;
+        flex-wrap: nowrap;
+    }
+
+    .service {
+        width: 100%;
+    }
+
+    .service-image-container {
+        margin: 0 auto;
+    }
+
+    .service-title {
+        text-align: center;
+    }
+
+    .map-wrap {
+        height: 200px;
+    }
+
+    .contactUs-main-wrap {
+        width: 80%;
+    }
+
+    .contactUs-write-wrap {
+        display: block;
+    }
+
+    .contactUs-inputs-wrap {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .contactUs-name {
+        text-align:center;
+        margin-bottom: 10px;
+    }
+
+    .contactUs-email {
+        text-align:center;
+    }
+
+    .contactUs-write-wrap textarea {
+        text-align:center;
+        width: 100%;
+    }
+
+    .footer-nav-wrap {
+        width: 90%;
+    }
+
+    .findUs-wrap {
+        width: 90%;
+        display: block;
+    }
+
+    .addresses-wrap {
+        margin-bottom: 20px;
+    }
+}
